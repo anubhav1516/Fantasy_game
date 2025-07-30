@@ -1,0 +1,17 @@
+playwright>=1.41.0
+selenium>=4.16.0
+requests>=2.31.0
+fake-useragent>=1.4.0
+python-dateutil>=2.8.2
+pathlib>=1.0.1
+cloudscraper>=1.2.71
+urllib3>=2.1.0
+certifi>=2023.11.17
+backoff>=2.2.1
+diskcache>=5.6.3 
+dlt[duckdb]>=0.4.3
+duckdb>=0.9.0
+dbt-core>=1.7.0
+dbt-duckdb>=1.7.0
+apache-airflow
+google-cloud-bigquery>=3.14.1
